@@ -27,3 +27,17 @@ The analysis uses historical customer transaction data to build a predictive mod
 *   Strongest predictors for the specialty book purchase: Customer monetary value, tenure (time since first purchase), and recency of purchase.
 *   The classification model achieved reasonable accuracy but struggled with recall for the minority (buyer) class.
 *   Market Basket Analysis revealed strong co-purchase patterns, particularly between Youth/DIY books and Cookbooks/Children's books.
+
+## Tech Stack
+*  Python
+*  Pandas (Data Manipulation)
+*  NumPy (Numerical Operations)
+*  Matplotlib & Seaborn (Data Visualization)
+*  Scikit-learn (Machine Learning - Model Selection
+*  Random Forest, Metrics)
+*  imblearn (SMOTE for Imbalance)
+*  MLxtend (Apriori Algorithm)
+
+## Portfolio
+*  For a more detailed project description and portfolio, ckeck out: https://lapis-school-f5e.notion.site/Predicting-Book-Purchases-Uncovering-Purchase-Patterns-1e4ca101e4698026bdbcf3d9a0a60830?pvs=4
+
